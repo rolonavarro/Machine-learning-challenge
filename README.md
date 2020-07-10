@@ -1,7 +1,7 @@
 # Machine-learning-challenge
 Created a machine learning model capable of classifying candidate exoplanets from the raw dataset.
 
-#### -- Project Status: [Active, On-Hold, Completed]
+#### -- Project Status: Active
 
 ## Project Intro/Objective
 The purpose of this project is to practice is to practice and learn more about Machine Learning. 
